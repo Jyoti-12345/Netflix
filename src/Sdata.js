@@ -34,6 +34,7 @@ const Sdata = [
         imgsrc: "https://www.hitc.com/static/uploads/hitcn/1816/extracurricular_netflix_780_1544944.jpg",
         title: "Netflix Original Series",
         links: "https://www.netflix.com/in/browse/genre/839338",
+        status: "ok"
     },
 ];
 export default Sdata;
